@@ -7,7 +7,7 @@
     "server": "http-server",
     "tsc": "tsc",
     "tsc:w": "tsc -w",
-    "start": "npm-run-all tsc tsc:w server"
+    "start": "npx http-server"
   },
   "keywords": [],
   "author": "",
